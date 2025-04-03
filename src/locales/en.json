@@ -1,0 +1,39 @@
+{
+    "ariane": "ARIANE",
+    "nav": {
+        "dashboard": "Dashboard",
+        "quotation": "Quotations",
+        "synthesis": "Synthesis",
+        "reports": {
+            "quotations": "Quotations",
+            "users": "Users",
+            "finance": "Finance"
+        },
+        "eastereggs": {
+            "all": "Team",
+            "famousquotes": "Famous quotes",
+            "pantries": "Pantries",
+            "photos": "Photo Album"
+        },
+        "about": "About...",
+        "admin": "Administration",
+        "me": "My profile",
+        "togglenotifications": "Toggle notifications",
+        "darkmodeswitch": {
+            "light": "Light mode",
+            "dark": "Dark mode"
+        },
+        "websocket": {
+            "closed": "Websocket closed... :'(",
+            "opened": "Websocket connection established! :)"
+        },
+        "happybirthday": "Happy birthday !",
+        "citations": "Famous quotes",
+        "croissants": "Pastries planning",
+        "planning": "Work plan",
+        "git": "Git"
+    },
+    "$vuetify": {
+      "badge": "badge"
+    }
+}

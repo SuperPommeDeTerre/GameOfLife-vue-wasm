@@ -1,0 +1,49 @@
+{
+  "apptitle": "🧬 Jeu de la vie de Conway",
+  "pages": {
+    "game-of-life": {
+      "title": "Jeu de la vie",
+      "actions": {
+        "start": {
+          "tooltip": "Démarrer"
+        },
+        "stop": {
+          "tooltip": "Arrêter"
+        },
+        "clear": {
+          "tooltip": "Effacer"
+        },
+        "random": {
+          "tooltip": "Génération d'un univers aléatoire"
+        },
+        "adjustspeed": {
+          "tooltip": "Ajuster la vitesse"
+        },
+        "adjustscale": {
+          "tooltip": "Ajuster l'échelle"
+        },
+        "randomize": {
+          "tooltip": "Générer un univers aléatoire"
+        },
+        "next_tick": {
+          "tooltip": "Génération suivante"
+        },
+        "edit_board": {
+          "tooltip": "Modifier l'univers"
+        },
+        "reset": {
+          "tooltip": "Réinitialiser"
+        },
+        "upload": {
+          "tooltip": "Sauvegarder cet univers ou enrichir le Lexicon"
+        },
+        "download": {
+          "tooltip": "Charger un univers ou à partir du Lexicon"
+        },
+        "settings": {
+          "tooltip": "Paramètres"
+        }
+      }
+    }
+  }
+}
